@@ -2,6 +2,8 @@
 
 A list of useful Excel macros collected on the internet and compiled into one VSTO project. The scripts directory contains the macros as Visual Basic subs that you can use as standalone macros is you don't want all of them. Please note that the code of the different features may differ from the VSTO version. Both format were tried on Microsoft Excel 2013 and 2016. For the VSTO version, you only need to install the executable and you should be able to see the new tab in Excel.
 
+![2019-03-02_11h33_55](https://user-images.githubusercontent.com/25963212/53680948-6ff34480-3ce2-11e9-8db5-694fc082e00c.png)
+
 ## Table of Contents
 
 - [Features](#features)
